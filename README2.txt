@@ -1,0 +1,1 @@
+I had used php as api to get data like questions and answers in the form of JSON format the php file and  question .sql are present  in bkd  folder
